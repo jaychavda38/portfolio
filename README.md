@@ -29,11 +29,11 @@ This website showcases my skills, projects, and journey as a web development lea
 
 ## 👀 Live Demo
 
-[Visit My Portfolio](YOUR_PORTFOLIO_LIVE_LINK)
+ https://jaychavda38.github.io/portfolio/
 
 ## 📂 Repository
 
-[View Source Code](YOUR_PORTFOLIO_REPOSITORY_LINK)
+https://github.com/jaychavda38/portfolio
 
 ## 🎯 Purpose
 
