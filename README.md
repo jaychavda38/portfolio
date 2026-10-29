@@ -25,7 +25,6 @@ This website showcases my skills, projects, and journey as a web development lea
 ## 🚀 My Projects
 
 - **Calculator** — A calculator built using HTML, CSS, and JavaScript.
-- Add more projects as you build them.
 
 ## 👀 Live Demo
 
